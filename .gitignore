@@ -1,0 +1,23 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Other
+**/.DS_Store
+**/.vscode/
+**/.idea/
+**/*.iml
+**/*.log
+**/.classpath
+**.project
+**/target/
+**/node_modules/
+**/*.map
+**/.nyc_output/
+**/coverage/
+**/coverage.html
+**/ssl
+**/report.xml
+**/.env

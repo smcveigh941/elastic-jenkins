@@ -1,0 +1,1 @@
+web: java -jar jenkins.jar --httpPort=5000
